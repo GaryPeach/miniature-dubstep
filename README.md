@@ -1,3 +1,7 @@
 #readme for miniature-dubstep
 ---
-foundations class test repo
+
+## objectives
+
+* learn github
+* work with remote repos
